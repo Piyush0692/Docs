@@ -1,3 +1,22 @@
 @tailwind base;
 @tailwind components;
+<<<<<<< HEAD
 @tailwind utilities;
+=======
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('./assets/Gilroy-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+  
+body {
+   font-family: 'Gilroy', sans-serif;
+}
+
+::selection {
+    color: rgb(157, 195, 239);
+}
+>>>>>>> 9ce856d1847c15f9d42e5c668a7298c3fe901315
