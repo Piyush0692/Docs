@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "name": "ochi",
-=======
-  "name": "docs",
->>>>>>> 9ce856d1847c15f9d42e5c668a7298c3fe901315
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -14,13 +10,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-<<<<<<< HEAD
     "locomotive-scroll": "^5.0.0-beta.21",
     "motion": "^12.16.0",
-=======
-    "motion": "^12.11.0",
     "nanoid": "^5.1.5",
->>>>>>> 9ce856d1847c15f9d42e5c668a7298c3fe901315
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-icons": "^5.5.0"
